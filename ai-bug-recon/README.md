@@ -108,3 +108,9 @@ ai-bug-recon/
 6. `git push` — upload the commit to your GitHub repository.
 
 Before staging, inspect the files and ensure you have not added credentials, private keys, or real target data.
+
+## Upcoming Features
+
+- AI-assisted endpoint classification
+- Identify potentially sensitive API routes
+- Generate structured reconnaissance reports
